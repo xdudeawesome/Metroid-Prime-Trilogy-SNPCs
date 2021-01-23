@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/parasite/parasite_amber"
+
+	"$detail"		"models/metroid_prime/prime/parasite/parasite_amber_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"		"models/metroid_prime/prime/parasite/parasite_shader"
+	"$envmapmask"		"models/metroid_prime/prime/parasite/parasite_mask"
+	"$envmapcontrast"		0.9
+}
