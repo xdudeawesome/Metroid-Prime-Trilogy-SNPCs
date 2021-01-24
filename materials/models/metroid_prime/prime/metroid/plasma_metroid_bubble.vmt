@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/metroid/plasma_metroid_bubble"
+	"$translucent" 1
+
+	"$detail"		"models/metroid_prime/prime/metroid/plasma_metroid_bubble_effect"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/prime/metroid/plasma_metroid_bubble_shader"
+	"$envmaptint" "[0 0.3 0.178]"
+
+	"$phong" "1"
+	"$phongfreshnelranges"	"[.1 1 3]"
+
+	"Proxies"
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.033"
+			"texturescrollangle" "0"
+		}
+	}
+}

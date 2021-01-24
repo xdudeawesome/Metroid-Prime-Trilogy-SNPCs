@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/metroid/metroid"
+
+	"$envmap"		"models/metroid_prime/prime/metroid/metroid_shader"
+	"$envmapmask"		"models/metroid_prime/prime/metroid/metroid_shadermask"
+	"$envmapcontrast"		0.5
+}
