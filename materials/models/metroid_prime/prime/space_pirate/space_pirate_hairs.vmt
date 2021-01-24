@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/space_pirate/space_pirate_hairs"
+	"$translucent" 1
+	"$additive" 1
+}

@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/space_pirate/space_pirate_blaster"
+
+	"$detail"		 "models/metroid_prime/prime/space_pirate/space_pirate_blaster"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 3.0
+			"texturescrollangle" 0
+		}
+
+		TextureScroll
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 3.0
+			"texturescrollangle" 0
+		}
+	}
+}
