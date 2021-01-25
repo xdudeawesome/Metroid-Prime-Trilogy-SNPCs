@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/war_wasp/war_wasp"
+
+	"$detail"		"models/metroid_prime/prime/war_wasp/war_wasp_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
