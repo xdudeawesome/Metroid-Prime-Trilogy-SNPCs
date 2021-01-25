@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/plazmite/plazmite"
+	"$translucent" 1
+}
