@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/blastcap/phazon_blastcap"
+
+	"$detail"		"models/metroid_prime/prime/blastcap/phazon_blastcap_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap" "models/metroid_prime/prime/phazon_blastcap_shader"
+}
