@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/burrower/ice_burrower_2"
+
+	"$detail"		"models/metroid_prime/prime/burrower/phazon_burrower_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"		"models/metroid_prime/prime/burrower/phazon_burrower_shader"
+	"$envmapmask"		"models/metroid_prime/prime/burrower/phazon_burrower_shadermask"
+
+	"Proxies"
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.167"
+			"texturescrollangle" "270"
+		}
+		>dx90
+		{
+			TextureScroll
+			{
+				"texturescrollvar" "envmapmasktransform"
+				"texturescrollrate" "0.033"
+				"texturescrollangle" "0"
+			}
+		}
+	}
+}

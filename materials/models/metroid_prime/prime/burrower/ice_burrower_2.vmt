@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/burrower/ice_burrower_2"
+
+	"$envmap"		"models/metroid_prime/prime/burrower/ice_burrower_shader"
+	"$envmapmask"		"models/metroid_prime/prime/burrower_ice_burrower_2_shadermask"
+	"$envmapcontrast"		0.9
+}
