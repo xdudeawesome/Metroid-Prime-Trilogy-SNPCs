@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/flying_pirate/aqua_pirate_limbs"
+	"$translucent" 1
+	"$additive" 1
+
+	"$detail"		"models/metroid_prime/prime/flying_pirate/aqua_pirate_limbs_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}

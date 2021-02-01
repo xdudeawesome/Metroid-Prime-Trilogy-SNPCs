@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/flying_pirate/aqua_pirate_glow"
+
+	"$detail"		"models/metroid_prime/prime/flying_pirate/aqua_pirate_glow_bright"
+	"$detailscale" 	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "4.0"
+			"texturescrollangle" "0"
+		}
+		TextureScroll
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "4.0"
+			"texturescrollangle" "0"
+		}
+	}
+}
