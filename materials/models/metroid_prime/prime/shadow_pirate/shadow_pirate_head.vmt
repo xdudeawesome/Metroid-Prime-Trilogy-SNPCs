@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/shadow_pirate/shadow_pirate_head"
+
+	"$envmap"		"models/metroid_prime/prime/shadow_pirate/shadow_pirate_shader2"
+	"$envmapmask"		"models/metroid_prime/prime/shadow_pirate/shadow_pirate_head"
+	"$envmapcontrast"		0.5
+}
