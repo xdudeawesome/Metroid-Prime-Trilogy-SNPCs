@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/hive_mecha/hive_mecha_pillar"
+
+	"$detail"		"models/metroid_prime/prime/hive_mecha/hive_mecha_pillar_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
