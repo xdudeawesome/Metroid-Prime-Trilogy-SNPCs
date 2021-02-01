@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/incinerator_drone/incinerator_drone_eye"
+
+	"$detail"		"models/metroid_prime/prime/incinerator_drone/incinerator_drone_eye_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
