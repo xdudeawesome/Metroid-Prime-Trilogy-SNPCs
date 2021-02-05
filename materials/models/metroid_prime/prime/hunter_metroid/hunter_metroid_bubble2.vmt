@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/hunter_metroid/hunter_metroid_bubble2"
+	"$translucent" 1
+
+	"$envmap"		"models/metroid_prime/prime/hunter_metroid/hunter_metroid_bubble_shader2"
+	"$envmapcontrast"		1.4
+}

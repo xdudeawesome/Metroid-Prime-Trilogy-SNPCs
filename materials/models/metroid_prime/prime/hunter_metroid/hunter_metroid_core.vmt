@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/hunter_metroid/hunter_metroid_core"
+
+	"$detail"		"models/metroid_prime/prime/hunter_metroid/hunter_metroid_core_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		0.4
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.067"
+			"texturescrollangle" "270"
+		}
+	}
+}
