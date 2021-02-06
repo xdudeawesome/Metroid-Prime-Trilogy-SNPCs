@@ -1,8 +1,8 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/metroid_prime/echoes/pirate_commando/pirate_commando"
+	"$basetexture" "models/metroid_prime/echoes/pirate_commando/dark_pirate_commando"
 
-	"$detail"		"models/metroid_prime/echoes/pirate_commando/pirate_commando_glow"
+	"$detail"		"models/metroid_prime/echoes/pirate_commando/dark_pirate_commando_glow"
 	"$detailscale"	1
 	"$detailblendfactor"		1
 	"$detailblendmode"		5
