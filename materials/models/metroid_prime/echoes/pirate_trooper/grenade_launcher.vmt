@@ -1,8 +1,8 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/metroid_prime/echoes/pirate_trooper/pirate_trooper"
+	"$basetexture" "models/metroid_prime/echoes/pirate_trooper/grenade_launcher"
 
-	"$detail"		"models/metroid_prime/echoes/pirate_trooper/pirate_trooper_glow"
+	"$detail"		"models/metroid_prime/echoes/pirate_trooper/grenade_launcher_glow"
 	"$detailscale"	1
 	"$detailblendfactor"		1
 	"$detailblendmode"		5
