@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/war_wasp/dark_war_wasp_mandibles"
+	"$additive" 1
+	"$nocull" 1
+	"$translucent" 1
+}
