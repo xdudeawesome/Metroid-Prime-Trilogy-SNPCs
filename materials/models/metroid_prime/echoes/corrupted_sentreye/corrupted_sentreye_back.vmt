@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/corrupted_sentreye/corrupted_sentreye_back"
+
+	"$envmap"	"models/metroid_prime/echoes/corrupted_sentreye/corrupted_sentreye_shader"
+	"$envmapmask"	"models/metroid_prime/echoes/corrupted_sentreye/corrupted_sentreye_back"
+}
