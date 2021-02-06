@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/splinter/dark_splinter"
+	"$additive" 1
+	"$translucent" 1
+
+	"$detail"		"models/metroid_prime/echoes/splinter/worker_splinter_mask"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/echoes/splinter/worker_splinter_shader"
+	"$envmapmask"	"models/metroid_prime/echoes/splinter/worker_splinter_mask"
+}
