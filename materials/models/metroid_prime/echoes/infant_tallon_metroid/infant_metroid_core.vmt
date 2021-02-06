@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/infant_tallon_metroid/infant_metroid_core"
+
+	"$detail"		"models/metroid_prime/echoes/infant_tallon_metroid/infant_metroid_core_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"		"models/metroid_prime/echoes/infant_tallon_metroid/infant_metroid_core_shader"
+	"$envmapmask"		"models/metroid_prime/echoes/infant_tallon_metroid/infant_metroid_core"
+}
