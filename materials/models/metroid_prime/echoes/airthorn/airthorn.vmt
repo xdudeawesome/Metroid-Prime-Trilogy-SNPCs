@@ -1,1 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/airthorn/airthorn"
 
+	"$detail" "models/metroid_prime/echoes/airthorn/airthorn_glow"
+	"$detailscale" 1
+	"$detailblendfactor" 1
+	"$detailblendmode" 5
+}
