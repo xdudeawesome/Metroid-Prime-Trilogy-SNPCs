@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/tallon_metroid/tallon_metroid_bubble"
+	"$translucent" 1
+	"$additive" 1
+
+	"$detail"		"models/metroid_prime/echoes/tallon_metroid/tallon_metroid_bubble"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
