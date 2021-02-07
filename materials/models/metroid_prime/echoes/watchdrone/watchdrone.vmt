@@ -1,1 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/watchdrone/watchdrone"
 
+	"$detail"	"models/metroid_prime/echoes/watchdrone/watchdrone_glow"
+	"$detailscale" 1
+	"$detailblendfactor" 	1
+	"$detailblendmode"		5
+}
