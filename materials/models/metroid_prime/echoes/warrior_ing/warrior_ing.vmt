@@ -1,1 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/warrior_ing/warrior_ing"
 
+	"$envmap" "models/metroid_prime/echoes/warrior_ing_shader"
+	"$envmapmode" 1
+}

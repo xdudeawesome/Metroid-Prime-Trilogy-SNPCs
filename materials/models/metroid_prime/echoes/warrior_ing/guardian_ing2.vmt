@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/warrior_ing/guardian_ing2"
+
+	"$envmap" "models/metroid_prime/echoes/guardian_ing_shader"
+	"$envmapmode" 1
+
+	"$detail"		"models/metroid_prime/echoes/warrior_ing/guardian_ing_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
