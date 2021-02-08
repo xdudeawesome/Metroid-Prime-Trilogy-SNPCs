@@ -1,6 +1,5 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/metroid_prime/echoes/inglet/inglet2"
-	"$additive" 1
-	"$nocull" 1
+	"$translucent" 1
 }
