@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/trooper/wave_trooper_limbs"
+
+	"$detail"		"models/metroid_prime/prime/trooper/wave_trooper_limbs_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"		"models/metroid_prime/prime/trooper/trooper_shader"
+	"$envmapmask"		"models/metroid_prime/prime/trooper/wave_trooper_limbs"
+	"$envmapcontrast"		0.5
+
+}

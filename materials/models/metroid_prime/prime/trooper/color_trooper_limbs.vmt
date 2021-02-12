@@ -1,11 +1,12 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/metroid_prime/prime/trooper/color_trooper_effect"
+	"$basetexture" "models/metroid_prime/prime/trooper/color_trooper_limbs"
 
-	"$detail"		"models/metroid_prime/prime/trooper/color_trooper_effect_glow"
+	"$detail"		"models/metroid_prime/prime/trooper/color_trooper_limbs_glow"
 	"$detailscale"	1
 	"$detailblendfactor"		1
 	"$detailblendmode"		5
+
 
 	"$rimlight"				"1"
 	"$rimlightboost"		"2"
@@ -18,17 +19,11 @@
 	"$color2"		"{ 255 255 255 }"
 
 	"$envmap"		"models/metroid_prime/prime/trooper/trooper_shader"
-	"$envmapmask"		"models/metroid_prime/prime/trooper/color_trooper_effect"
+	"$envmapmask"		"models/metroid_prime/prime/trooper/color_trooper_limbs"
 	"$envmapcontrast"		0.5
 
 	"Proxies"
 	{
-		TextureScroll
-		{
-			"texturescrollvar" "$detailtexturetransform"
-			"texturescrollrate" "2.0"
-			"texturescrollangle" "270"
-		}
 		"ItemTintColor"
 		{
 			"resultVar"		"$detailtint"
