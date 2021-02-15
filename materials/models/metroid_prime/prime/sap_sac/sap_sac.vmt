@@ -1,1 +1,4 @@
-
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/sap_sac/sap_sac"
+}
