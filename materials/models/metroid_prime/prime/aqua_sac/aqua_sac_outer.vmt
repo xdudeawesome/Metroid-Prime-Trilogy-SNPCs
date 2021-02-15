@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/aqua_sac/aqua_sac_transparent"
+	"$translucent" 1
+}
