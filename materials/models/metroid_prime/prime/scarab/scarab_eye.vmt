@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/scarab/scarab_eye"
+
+	"$detail"		"models/metroid_prime/prime/scarab/scarab_eye_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.25"
+			"texturescrollangle" "270"
+		}
+	}
+}
