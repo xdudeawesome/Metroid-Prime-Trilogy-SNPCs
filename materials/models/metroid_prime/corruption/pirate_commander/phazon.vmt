@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_commander/phazon"
+	"$additive" 1
+	"$translucent" 1
+
+	"$detail"		"models/metroid_prime/corruption/pirate_commander/phazon"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}

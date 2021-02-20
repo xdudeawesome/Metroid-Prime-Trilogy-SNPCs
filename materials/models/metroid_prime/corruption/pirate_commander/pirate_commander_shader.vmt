@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$envmap" "models/metroid_prime/corruption/pirate_commander/pirate_commander_shader"
+
+	"$envmapmode" 1
+	"$multipass" 1
+
+	"VertexLitGeneric_HDR_DX9"
+	{
+		"$envmaptint" "[.15 .15 .15]"
+		"$envmapcontrast" .8
+		"$envmapsaturation" 1.5
+	}
+
+}

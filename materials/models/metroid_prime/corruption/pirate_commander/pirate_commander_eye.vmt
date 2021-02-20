@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_commander/pirate_commander_eye"
+	"$selfillum" 1
+}
