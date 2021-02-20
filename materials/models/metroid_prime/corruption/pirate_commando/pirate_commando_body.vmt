@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_commando/pirate_commando_body"
+	"$envmap" "models/metroid_prime/corruption/pirate_commando/pirate_commando_body_shader"
+	"$envmapsphere" 1
+	"$envmapmode" 1
+	"$multipass" 1
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetextureTransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 0
+		}
+	}
+
+}
