@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/atomic/atomic_bomb_spots"
+
+	"$detail"		"models/metroid_prime/corruption/atomic/atomic_bomb_spots_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		2
+	"$detailblendmode"		5
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/atomic/atomic_fx"
+	$emissiveBlendBaseTexture "models/metroid_prime/corruption/atomic/atomic_bomb_spots_mask"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[1.5 1.5 1.5]"
+	$emissiveblendStrength 1
+	$emissiveBlendScrollVector "[6 2]"
+}
