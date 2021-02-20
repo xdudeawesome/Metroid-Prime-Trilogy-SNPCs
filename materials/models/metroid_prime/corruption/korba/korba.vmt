@@ -1,1 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/korba/korba"
 
+	"$envmap"	"models/metroid_prime/corruption/korba/korba_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/korba/korba_mask"
+}
