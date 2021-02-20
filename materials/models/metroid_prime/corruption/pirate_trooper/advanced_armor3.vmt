@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_trooper/advanced_armor"
+
+	"$envmap"	"models/metroid_prime/corruption/pirate_trooper/advanced_armor_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/pirate_trooper/advanced_armor"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_trooper/advanced_armor_effect"
+	"$translucent" 1
+	"$additive" 1
+
+	"$detail"		"models/metroid_prime/corruption/pirate_trooper/advanced_armor_effect"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}

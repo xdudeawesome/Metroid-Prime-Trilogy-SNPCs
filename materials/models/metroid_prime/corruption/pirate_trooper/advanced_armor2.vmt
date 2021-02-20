@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_trooper/advanced_armor2"
+
+	"$envmap"	"models/metroid_prime/corruption/pirate_trooper/advanced_armor_shader"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.4
+			"texturescrollangle" 0
+		}
+	}
+}

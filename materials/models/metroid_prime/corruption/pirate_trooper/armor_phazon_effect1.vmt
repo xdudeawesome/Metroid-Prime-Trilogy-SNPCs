@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_trooper/armor_phazon_effect"
+	"$translucent" 1
+	"$additive" 1
+
+	"$detail"		"models/metroid_prime/corruption/pirate_trooper/armor_phazon_effect"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 1
+			"texturescrollangle" 270
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 1
+			"texturescrollangle" 270
+		}
+	}
+}

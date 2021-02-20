@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_trooper/pirate_trooper_weapons"
+
+	"$detail"		"models/metroid_prime/corruption/pirate_trooper/pirate_trooper_weapons_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}

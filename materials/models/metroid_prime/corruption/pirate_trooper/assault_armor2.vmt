@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_trooper/assault_armor2"
+	"$translucent" 1
+	"$additive" 1
+
+	"$envmap"	"models/metroid_prime/corruption/pirate_trooper/assault_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/pirate_trooper/assault_armor2"
+}

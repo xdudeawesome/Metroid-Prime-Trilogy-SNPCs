@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_trooper/assault_armor"
+
+	"$detail"		"models/metroid_prime/corruption/pirate_trooper/assault_effect3"
+	"$detailscale" 	1
+	"$detailblendfactor" 	1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/corruption/pirate_trooper/assault_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/pirate_trooper/assault_armor"
+
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtextureTransform"
+			"texturescrollrate" 0.4
+			"texturescrollangle" 0
+		}
+	}
+}
