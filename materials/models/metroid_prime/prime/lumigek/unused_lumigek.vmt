@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/lumigek/unused_lumigek_phazon"
+	"$additive" 1
+	"$translucent" 1
+
+	"$detail"		"models/metroid_prime/prime/lumigek/unused_lumigek_phazon"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "0.167"
+			"texturescrollangle" "270"
+		}
+		TextureScroll
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.167"
+			"texturescrollangle" "270"
+		}
+	}
+}

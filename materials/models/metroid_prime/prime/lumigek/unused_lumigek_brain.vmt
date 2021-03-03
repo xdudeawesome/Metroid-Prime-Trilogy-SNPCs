@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/lumigek/lumigek_brain"
+
+	"$detail"		"models/metroid_prime/prime/lumigek/lumigek_brain_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "dev/null"
+	$emissiveBlendBaseTexture	"models/metroid_prime/prime/lumigek/lumigek_brain_effect"
+	$emissiveBlendTint "[1 1 1]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0.067]"
+
+	"Proxies"
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.05"
+			"texturescrollangle" "270"
+		}
+	}
+}
+	

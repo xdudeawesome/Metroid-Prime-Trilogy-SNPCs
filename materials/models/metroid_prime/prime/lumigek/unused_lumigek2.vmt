@@ -9,7 +9,7 @@
 	"$detailblendfactor"		1
 	"$detailblendmode"		5
 
-	"$envmap"	"models/metroid_prime/prime/lumigek/lumigek_shader"
+	"$envmap"	"models/metroid_prime/prime/lumigek/unused_lumigek_shader"
 	"$envmapfresnel"	1
 	"$envmaptint" "[0.05 0.07 0.12]"
 

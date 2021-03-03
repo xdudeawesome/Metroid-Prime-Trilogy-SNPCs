@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/lumigek/lumigek_eye"
+
+	"$envmap"		"models/metroid_prime/prime/lumigek/lumigek_eye_shader"
+	"$envmapcontrast" 		-4.0
+}
