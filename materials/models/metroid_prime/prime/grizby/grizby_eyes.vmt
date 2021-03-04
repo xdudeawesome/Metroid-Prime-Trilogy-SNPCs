@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/grizby/grizby_eyes"
+	"$selfillum" 1
+	"$selfillummask" "models/metroid_prime/prime/grizby/grizby_eyes"
+}

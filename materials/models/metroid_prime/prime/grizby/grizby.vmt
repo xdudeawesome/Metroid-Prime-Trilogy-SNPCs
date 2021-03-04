@@ -1,1 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/grizby/grizby"
 
+	"$envmap"		"models/metroid_prime/prime/grizby/grizby_reflect"
+	"$envmapmask"		"models/metroid_prime/prime/grizby/grizby_reflect_mask"
+	"$envmapcontrast"		0.9
+}
