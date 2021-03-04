@@ -1,4 +1,8 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/metroid_prime/prime/oculus/oculus"
+
+	"$envmap"		"models/metroid_prime/prime/oculus/oculus_shader"
+	"$envmapmask"		"models/metroid_prime/prime/oculus/oculus_shadermask"
+	"$envmapcontrast"		0.9
 }
