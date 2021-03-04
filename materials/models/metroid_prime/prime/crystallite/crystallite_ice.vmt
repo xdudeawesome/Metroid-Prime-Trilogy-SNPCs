@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/crystallite/crystallite_ice"
+
+	"$envmap"	"models/metroid_prime/prime/crystallite/ice_shader"
+	"$envmapmask"	"models/metroid_prime/prime/crystallite/crystallite_ice_shadermask"
+}

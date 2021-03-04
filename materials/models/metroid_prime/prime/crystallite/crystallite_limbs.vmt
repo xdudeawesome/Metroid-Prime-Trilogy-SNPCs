@@ -1,4 +1,7 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/metroid_prime/prime/crystallite/crystallite_body"
+
+	"$envmap"		"models/metroid_prime/prime/crystallite/crystallite_shader"
+	"$envmapcontrast"		0.9
 }

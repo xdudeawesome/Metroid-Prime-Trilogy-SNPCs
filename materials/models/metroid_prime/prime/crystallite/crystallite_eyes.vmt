@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/crystallite/crystallite_eye"
+	"$additive" 1
+	"$translucent" 1
+}
