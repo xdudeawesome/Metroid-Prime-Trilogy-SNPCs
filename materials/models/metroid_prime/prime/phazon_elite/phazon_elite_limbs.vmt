@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/metroid_prime/prime/phazon_elite/phazon_elite_body"
+	"$basetexture" "models/metroid_prime/prime/phazon_elite/phazon_elite_limbs"
 
 	"$detail"		"models/metroid_prime/prime/phazon_elite/phazon_elite_phazon"
 	"$detailscale"	1
@@ -8,6 +8,6 @@
 	"$detailblendmode"		5
 
 	"$envmap"		"models/metroid_prime/prime/phazon_elite/phazon_elite_shader"
-	"$envmapmask"		"models/metroid_prime/prime/phazon_elite/phazon_elite_body"
-	"$envmapcontrast"		-1.0
+	"$envmapmask"		"models/metroid_prime/prime/phazon_elite/phazon_elite_limbs"
+	"$envmapcontrast"		1.0
 }

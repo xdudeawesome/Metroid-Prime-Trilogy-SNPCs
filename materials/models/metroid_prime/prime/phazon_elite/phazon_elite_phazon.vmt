@@ -1,0 +1,33 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/phazon_elite/phazon_elite_phazon"
+	"$additive" 1
+	"$nocull" 1
+
+	"$detail"		"models/metroid_prime/prime/phazon_elite/phazon_effect1"
+	"$detailscale"	1
+	"$detailblendfactor"		2
+	"$detailblendmode"		5
+
+	"$envmap"		"models/metroid_prime/prime/phazon_elite/phazon_shader"
+	"$envmapmask"		"models/metroid_prime/prime/phazon_elite/phazon_solid"
+	"$envmapcontrast"		1.0
+	"$envmapsphere"		1
+	"$envmapmode" 		1
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.167"
+			"texturescrollangle" "270"
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" "0.033"
+			"texturescrollangle" "0"
+		}
+	}
+}
