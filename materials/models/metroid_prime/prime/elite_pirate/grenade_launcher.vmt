@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/elite_pirate/grenade_launcher"
+
+	"$envmap"		"models/metroid_prime/prime/elite_pirate/elite_pirate_shader"
+	"$envmapmask"		"models/metroid_prime/prime/elite_pirate/grenade_launcher_mask"
+	"$envmapcontrast"		-4.0
+}

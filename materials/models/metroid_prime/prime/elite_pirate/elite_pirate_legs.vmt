@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/elite_pirate/elite_pirate_legs"
+
+	"$envmap"		"models/metroid_prime/prime/elite_pirate/elite_pirate_shader"
+	"$envmapmask"		"models/metroid_prime/prime/elite_pirate/elite_pirate_legs_mask"
+	"$envmapcontrast"		-4.0
+}

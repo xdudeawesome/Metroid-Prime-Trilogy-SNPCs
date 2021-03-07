@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/elite_pirate/elite_pirate_glow"
+	"$additive" 1
+	"$nocull" 1
+	"$selfillum" 1
+}
