@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/omega_pirate/omega_pirate_shoulders"
+
+	"$bumpmap"	"models/metroid_prime/prime/omega_pirate/omega_pirate_shoulders_n"
+
+	"$phong" 	"1"
+	"$phongexponent"	"10"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[1 .7 3]"
+	"$phongtint"	"[0 10 100]"
+
+}

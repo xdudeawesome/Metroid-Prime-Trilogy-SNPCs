@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/omega_pirate/grenade_launcher_omega_glow"
+	"$additive" 0
+	"$nocull" 0
+
+	"$detail"		"models/metroid_prime/prime/omega_pirate/grenade_launcher_omega_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}

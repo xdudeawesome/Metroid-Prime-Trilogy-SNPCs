@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/omega_pirate/grenade_launcher_omega_mount"
+
+	"$bumpmap"	"models/metroid_prime/prime/omega_pirate/grenade_launcher_omega_mount_n"
+
+	"$phong" 	"1"
+	"$phongexponent"	"10"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[1 .7 3]"
+//	"$phongtint"	"[0 10 100]"
+	"$envmap" "models\metroid_prime\prime\omega_pirate\omega_pirate_shader"
+}

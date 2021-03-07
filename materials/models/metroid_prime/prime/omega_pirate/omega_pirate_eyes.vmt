@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/omega_pirate/omega_pirate_eyes"
+	"$translucent" 1
+
+	"$detail"		"models/metroid_prime/prime/omega_pirate/omega_pirate_eyes_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
