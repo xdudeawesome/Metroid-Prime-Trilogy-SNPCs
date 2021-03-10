@@ -1,11 +1,7 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/metroid_prime/echoes/federation_trooper/trooper"
-
-	"$detail"		"models/metroid_prime/echoes/federation_trooper/trooper_glow"
-	"$detailscale"	1
-	"$detailblendfactor"		1
-	"$detailblendmode"		5
+	"$translucent" 1
 
 	"$envmap"	"models/metroid_prime/echoes/federation_trooper/trooper_shader"
 	"$envmapmask"	"models/metroid_prime/echoes/federation_trooper/trooper"
