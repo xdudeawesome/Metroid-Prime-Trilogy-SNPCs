@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/dark_trooper/dark_trooper_visor"
+	"$translucent" 1
+	"$additive" 1
+
+	"$envmap"	"models/metroid_prime/echoes/dark_trooper/dark_trooper_visor_shader"
+	"$envmapmask"	"models/metroid_prime/echoes/dark_trooper/dark_trooper_visor"
+}
