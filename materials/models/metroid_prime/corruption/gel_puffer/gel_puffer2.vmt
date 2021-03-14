@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/gel_puffer/gel_puffer2"
+
+	"$envmap"	"models/metroid_prime/corruption/gel_puffer/shader"
+	"$envmapmask"	"models/metroid_prime/corruption/gel_puffer/gel_puffer"
+}
