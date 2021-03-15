@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/ing_larva_swarm/ing_larva_swarm_alpha"
+	"$translucent" 1
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/echoes/ing_larva_swarm/ing_larva_swarm_fx"
+	$emissiveBlendBaseTexture	"models/metroid_prime/echoes/ing_larva_swarm/ing_larva_swarm_fx_mask"
+	$emissiveBlendFlowTexture	"requiredtoflow"
+	$emissiveBlendTint "[1.5 1.5 1.5]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[-0.2 0]"
+}
