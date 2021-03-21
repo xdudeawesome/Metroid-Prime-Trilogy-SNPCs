@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/rundas/rundas_phazon"
+
+	"$detail"		"models/metroid_prime/corruption/rundas/rundas_phazon_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/corruption/rundas/rundas_phazon_shader"
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/rundas/rundas_phazon_effect"
+	$emissiveBlendBaseTexture "models/metroid_prime/corruption/rundas/rundas_phazon"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[1.25 1.25 1.25]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0.5]"
+}

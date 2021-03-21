@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/rundas/phazon2"
+	"$additive" 1
+	"$translucent" 1
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/rundas/phazon2_effect"
+	$emissiveBlendBaseTexture "models/metroid_prime/corruption/rundas/phazon2_mask2"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[.25 .25 .25]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 -1.5]"
+}

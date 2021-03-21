@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/rundas/rundas"
+
+	"$detail"		"models/metroid_prime/corruption/rundas/rundas_effect"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/corruption/rundas/rundas_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/rundas/rundas_shadermask"
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/rundas/rundas_effect"
+	$emissiveBlendBaseTexture "models/metroid_prime/corruption/rundas/rundas_shadermask"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[1.5 1.5 1.5]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0.0667]"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 0.0667
+			"texturescrollangle" 270
+		}
+	}
+}
