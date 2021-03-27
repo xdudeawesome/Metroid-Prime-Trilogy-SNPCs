@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/ingsmasher/ingsmasher_dark"
+
+	"$detail" "models/metroid_prime/echoes/ingsmasher/ingsmasher_dark"
+	"$detailscale" 1
+	"$detailblendfactor"		0.3
+	"$detailblendmode" 	5
+
+	"$envmap"		"models/metroid_prime/echoes/ingsmasher/ingsmasher_dark_shader"
+	"$envmapmask"		"models/metroid_prime/echoes/ingsmasher/ingmasher_dark"
+	"$envmapcontrast"		0.5
+
+}
