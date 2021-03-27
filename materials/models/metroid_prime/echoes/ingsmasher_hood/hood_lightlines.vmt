@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/ingsmasher_hood/hood_lightlines"
+
+	"$detail"		"models/metroid_prime/echoes/ingsmasher_hood/hood_lightlines_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
