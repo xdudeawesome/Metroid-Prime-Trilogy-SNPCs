@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/elysian_shriekbat/elysian_shriekbat_hologram"
+	"$additive" 1
+	"$translucent" 1
+
+	"$detail"		"models/metroid_prime/corruption/elysian_shriekbat/elysian_shriekbat_hologram"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
