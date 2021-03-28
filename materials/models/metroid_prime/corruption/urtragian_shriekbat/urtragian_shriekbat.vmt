@@ -1,1 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/urtragian_shriekbat/urtragian_shriekbat"
+	"$translucent" 1
 
+	"$detail"		"models/metroid_prime/corruption/urtragian_shriekbat/urtragian_shriekbat_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
