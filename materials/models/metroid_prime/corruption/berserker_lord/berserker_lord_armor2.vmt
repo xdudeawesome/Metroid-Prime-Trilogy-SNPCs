@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/berserker_lord/berserker_lord_armor2"
+
+	"$detail"		"models/metroid_prime/corruption/berserker_lord/berserker_lord_armor_effect"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/corruption/berserker_lord/berserker_lord_armor_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/berserker_lord/berserker_lord_armor2"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 0.5
+			"texturescrollangle" 90
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 0.5
+			"texturescrollangle" 180
+		}
+	}
+}

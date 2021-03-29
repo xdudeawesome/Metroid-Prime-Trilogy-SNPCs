@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/berserker_lord/phazon2"
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture	"models/metroid_prime/corruption/berserker_lord/phazon_fx2"
+	$emissiveBlendBaseTexture	"models/metroid_prime/corruption/berserker_lord/phazon2"
+	$emissiveBlendFlowTexture 	"requiredtoflow"
+	$emissiveBlendTint "[1.5 1.5 1.5]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 1]" 
+
+}

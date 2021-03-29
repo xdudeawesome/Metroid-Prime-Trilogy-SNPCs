@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/berserker_lord/shoulder"
+	"$translucent" 1
+	"$additive" 1
+
+	"$detail"		"models/metroid_prime/corruption/berserker_lord/shoulder_effect2"
+	"$detailscale"	1
+	"$detailblendfactor"		5
+	"$detailblendmode"		5
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/berserker_lord/shoulder_effect"
+	$emissiveBlendBaseTexture "models/metroid_prime/corruption/berserker_lord/shoulder_mask"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[1.5 1.5 1.5]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0.5 0.5"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar"	"$detailtexturetransform"
+			"texturescrollrate"	"0.5"
+			"texturescrollangle" "0"
+		}
+	}
+}

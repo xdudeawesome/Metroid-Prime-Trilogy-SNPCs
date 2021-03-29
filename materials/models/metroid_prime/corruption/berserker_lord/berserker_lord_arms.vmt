@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/berserker_lord/berserker_lord_arms"
+
+	"$detail" "models/metroid_prime/corruption/berserker_lord/berserker_lord_arms_glow"
+	"$detailscale" 1
+	"$detailblendfactor" 	1
+	"$detailblendmode"		5
+}

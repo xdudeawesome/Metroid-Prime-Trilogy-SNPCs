@@ -1,0 +1,41 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/berserker_lord/weakspot"
+	"$additive" 1
+
+	"$detail"		"models/metroid_prime/corruption/berserker_lord/weakspot"
+	"$detailscale" 	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.6
+			"texturescrollangle" 0
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 0.6
+			"texturescrollangle" 0
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.5
+			"texturescrollangle" 90
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 0.5
+			"texturescrollangle" 90
+		}
+	}
+}
