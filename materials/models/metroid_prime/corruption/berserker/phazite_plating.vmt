@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/berserker/phazite_plating"
+
+
+	"$detail"		"models/metroid_prime/corruption/berserker/phazite_glow"
+	"$detailscale" 	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 0.05
+			"texturescrollangle" 135
+		}
+	}
+}
