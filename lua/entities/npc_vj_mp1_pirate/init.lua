@@ -31,6 +31,10 @@ ENT.SoundTbl_Alert = {
 "npc/space_pirate/alert1.wav",
 }
 
+ENT.SoundTbl_Attack = {
+"npc/space_pirate/attack.wav",
+}
+
 ENT.SoundTbl_Pain = {
 "npc/space_pirate/pain.wav",
 }
@@ -52,5 +56,11 @@ function ENT:CustomOnAcceptInput(key,activator,caller,data)
 		self:EmitSound("npc/space_pirate/step1.wav", 70, 100, 0.5)
 	elseif key == "Step2" then
 		self:EmitSound("npc/space_pirate/step2.wav", 70, 100, 0.5)
+	elseif key == "Sword_In" then
+		self:EmitSound("npc/space_pirate/sword_in.wav", 100, 100, 0.5)
+	elseif key == "Sword_Out" then
+		self:EmitSound("npc/space_pirate/sword_out.wav", 100, 100, 0.5)
+	elseif key == "Sword_Swing" then
+		self:EmitSound("npc/space_pirate/sword_swing.wav", 100, 100, 0.5)
 	end
 end
