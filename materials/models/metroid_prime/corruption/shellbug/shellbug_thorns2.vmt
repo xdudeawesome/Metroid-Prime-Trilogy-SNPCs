@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/shellbug/shellbug_thorns2"
+	"$translucent" 1
+	"$additive" 1
+
+	"$detail"		"models/metroid_prime/corruption/shellbug/shellbug_thorns2_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		0.1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtextureTransform"
+			"texturescrollrate" "0.1"
+			"texturescrollangle" 90
+		}
+	}
+}
