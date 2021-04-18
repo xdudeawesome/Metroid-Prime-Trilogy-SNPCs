@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/reptilicus/reptilicus_teeth"
+	"$additive" 1
+	"$translucent" 1
+
+	"$envmap"	"models/metroid_prime/corruption/reptilicus/reptilicus_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/reptilicus/reptilicus_body"
+}
