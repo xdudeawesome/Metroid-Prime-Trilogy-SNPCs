@@ -1,1 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/warp_hound/warp_hound"
 
+	"$detail"		"models/metroid_prime/corruption/warp_hound/warp_hound_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/corruption/warp_hound/warp_hound_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/warp_hound/warp_hound"
+}
