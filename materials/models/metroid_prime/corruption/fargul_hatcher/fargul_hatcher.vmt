@@ -1,1 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/fargul_hatcher/fargul_hatcher"
 
+	"$envmap"	"models/metroid_prime/corruption/fargul_hatcher/fargul_hatcher_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/fargul_hatcher/fargul_hatcher"
+}
