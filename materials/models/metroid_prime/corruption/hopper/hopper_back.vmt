@@ -1,7 +1,9 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/metroid_prime/corruption/hopper/hopper"
+	"$translucent" 1
+	"$additive" 1
 
-	"$envmap"	"models/metroid_prime/corruption/hopper/hopper_shader3"
+	"$envmap"	"models/metroid_prime/corruption/hopper/hopper_shader"
 	"$envmapmask"	"models/metroid_prime/corruption/hopper/hopper"
 }
