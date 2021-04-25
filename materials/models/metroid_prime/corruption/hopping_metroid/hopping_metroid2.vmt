@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/hopping_metroid/hopping_metroid"
+
+	"$detail"		"models/metroid_prime/corruption/hopping_metroid/hopping_metroid_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/hopping_metroid/hopping_metroid_effect"
+	$emissiveBlendBaseTexture "models/metroid_prime/corruption/hopping_metroid/hopping_metroid_mask"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[1.5 1.5 1.5]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[ 0.2 0.2]"
+
+}
