@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/alpha_hopper/alpha_hopper"
+
+	"$detail"		"models/metroid_prime/corruption/alpha_hopper/alpha_hopper_effect"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/corruption/alpha_hopper/alpha_hopper_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/alpha_hopper/alpha_hopper"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 0.7785
+			"texturescrollangle" 100
+		}
+	}
+}

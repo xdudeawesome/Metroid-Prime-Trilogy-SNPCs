@@ -1,1 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/alpha_hopper/alpha_hopper"
 
+	"$envmap"	"models/metroid_prime/corruption/alpha_hopper/alpha_hopper_shader"
+	"$envmapmask"	"modes/metroid_prime/corruption/alpha_hopper/alpha_hopper"
+}
