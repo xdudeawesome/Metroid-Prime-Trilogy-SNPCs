@@ -1,1 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/phazon_puffer/phazon_puffer_inner"
+	"$additive" 1
+	"$translucent" 1
 
+	"$detail"		"models/metroid_prime/corruption/phazon_puffer/phazon_puffer_inner"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
