@@ -18,7 +18,10 @@ ENT.VJ_NPC_Class = {"CLASS_ING"}
 
 ENT.HasMeleeAttack = true
 
-ENT.MeleeAttackDamage = 12
+ENT.MeleeAttackDamage = 15
+ENT.MeleeAttackDamageType = DMG_SLASH
+ENT.TimeUntilMeleeAttackDamage = false
+ENT.HasDeathRagdoll = true
 
 ENT.SoundTbl_Idle = {
 "npc/dark_trooper/dark_trooper_vox_idle.wav",
@@ -49,5 +52,9 @@ ENT.SoundTbl_Death = {
 function ENT:CustomOnAcceptInput(key,activator,caller,data)
 	if key == "Step" then
 		self:EmitSound("npc/dark_trooper/dark_trooper_step"..math.random(1,2)..".wav", 75, 100, 0.25)
+	elseif key == "Swipe" then
+		self:EmitSound("npc/dark_trooper/dark_trooper_swipe.wav", 75, 100, 1)
+	elseif key == "event_mattack swipe" then
+		self:MeleeAttackCode()
 	end
 end
