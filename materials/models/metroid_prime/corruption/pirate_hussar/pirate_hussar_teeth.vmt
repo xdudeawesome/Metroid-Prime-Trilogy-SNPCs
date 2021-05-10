@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_hussar/pirate_hussar_teeth"
+	"$additive" 1
+	"$nocull" 1
+	"$translucent" 1
+}

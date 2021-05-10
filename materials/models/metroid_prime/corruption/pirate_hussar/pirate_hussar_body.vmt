@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/pirate_hussar/pirate_hussar_body"
+
+	"$envmap"	"models/metroid_prime/corruption/pirate_hussar/pirate_hussar_body_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/pirate_hussar/pirate_hussar_body_shadermask"
+}
