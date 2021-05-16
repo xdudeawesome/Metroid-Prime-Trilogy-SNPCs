@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/korakk_beast/korakk_phazite_fx"
+	"$additive" 1
+	"$translucent" 1
+	"$selfillum" 1
+
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 20
+		}
+
+
+	}
+}
+

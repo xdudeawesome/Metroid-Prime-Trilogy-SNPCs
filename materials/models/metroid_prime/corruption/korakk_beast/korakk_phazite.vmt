@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/korakk_beast/korakk_phazite"
+
+	"$detail"		"models/metroid_prime/corruption/korakk_beast/korakk_phazite_effect"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	$emissiveBlendEnable 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/korakk_beast/korakk_phazite_glow"
+	$emissiveBlendBaseTexture "debug/white"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[1.5 1.5 1.5]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0.5 -0]"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" "0.015"
+			"texturescrollangle" "45"
+		}
+	}
+}
