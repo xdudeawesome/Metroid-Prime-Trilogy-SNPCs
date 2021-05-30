@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/steambot/steambot_tech"
+
+	"$detail"		"models/metroid_prime/corruption/steambot/steambot_tech_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "models/metroid_prime/corruption/steambot/steambot_tech_fx"
+	$emissiveBlendBaseTexture "models/metroid_prime/corruption/steambot/steambot_tech"
+	$emissiveBlendFlowTexture "requiredtoflow"
+	$emissiveBlendTint "[10 10 10]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[-1 0.1]"
+
+}

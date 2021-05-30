@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/steambot/steambot_holo"
+	"$additive" 1
+	"$translucent" 1
+
+	"$detail"		"models/metroid_prime/corruption/steambot/steambot_holo"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetextureTransform"
+			"texturescrollrate" 3
+			"texturescrollangle" 25
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtextureTransform"
+			"texturescrollrate" 3
+			"texturescrollangle" 25
+		}
+	}
+}
