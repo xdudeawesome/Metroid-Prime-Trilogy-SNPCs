@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/steamlord/steamlord_cape"
+
+	"$envmap"	"models/metroid_prime/corruption/steamlord/steamlord_cape_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/steamlord/steamlord_cape"
+}
