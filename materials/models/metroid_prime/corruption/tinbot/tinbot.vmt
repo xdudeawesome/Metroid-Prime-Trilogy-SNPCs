@@ -1,1 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/tinbot/tinbot"
 
+	"$envmap"	"models/metroid_prime/corruption/tinbot/tinbot_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/tinbot/tinbot"
+}
