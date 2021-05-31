@@ -1,1 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/defense_drone/defense_drone"
 
+	"$detail"		"models/metroid_prime/corruption/defense_drone/defense_drone_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"$envmap"	"models/metroid_prime/corruption/defense_drone/defense_drone_shader"
+	"$envmapmask"	"models/metroid_prime/corruption/defense_drone/defense_drone"
+}

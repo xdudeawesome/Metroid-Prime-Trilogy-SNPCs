@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/defense_drone/defense_drone_innerholo2"
+	"$additive" 1
+	"$translucent" 1
+
+	"$detail" "models/metroid_prime/corruption/defense_drone/defense_drone_innerholo2"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+}
