@@ -1,1 +1,4 @@
-
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/seedburster/seedburster"
+}
