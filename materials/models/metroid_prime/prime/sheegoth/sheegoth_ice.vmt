@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/prime/sheegoth/sheegoth_ice"
+	"$basetexturealphaenvmapmask" 1
+
+	"$envmap"		"models/metroid_prime/prime/sheegoth/ice_shader"
+	"$envmapmask"		"models/metroid_prime/prime/sheegoth/sheegoth_ice_mask"
+	"$envmapmode"	1
+	"$envmapsphere"	1
+}
