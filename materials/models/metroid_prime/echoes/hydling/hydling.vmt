@@ -1,1 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/hydling/hydling"
+	"$translucent" 1
 
+	"$detail"		"models/metroid_prime/echoes/hydling/hydling_glow"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+}
