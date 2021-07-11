@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/corruption/crawltank/crawltank_lights"
+
+	"$detail"		"models/metroid_prime/corruption/crawltank/crawltank_lights"
+	"$detailscale"	1
+	"$detailblendfactor"		1
+	"$detailblendmode"		5
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 2
+			"texturescrollangle" 0
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 2
+			"texturescrollangle" 0
+		}
+	}
+}
