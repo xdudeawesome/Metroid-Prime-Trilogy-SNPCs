@@ -1,1 +1,5 @@
-
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metroid_prime/echoes/sandbat/sandbat"
+	"$translucent" 1
+}
