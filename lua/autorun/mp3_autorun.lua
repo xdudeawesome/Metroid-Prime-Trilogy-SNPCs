@@ -117,7 +117,7 @@ if VJExists == true then
 
 //	VJ.AddNPC("Nightbarb","npc_vj_mp3_nightbarb",vCat)
 
-//	VJ.AddNPC("Phazon Nightbarb","npc_vj_mp3_nightbarb_phazon",vCat)
+/	VJ.AddNPC("Phazon Nightbarb","npc_vj_mp3_nightbarb_phazon",vCat)
 
 //	VJ.AddNPC("Swarmbot","npc_vj_mp3_swarmbot",vCat)
 

@@ -51,7 +51,7 @@ if VJExists == true then
 
 //	VJ.AddNPC("Bomb Guardian","npc_vj_mp2_sandworm_ing",vCat)
 
-	VJ.AddNPC("Dark Pirate Trooper","npc_vj_mp2_pirate_dark",vCat)
+//	VJ.AddNPC("Dark Pirate Trooper","npc_vj_mp2_pirate_dark",vCat)
 
 //	VJ.AddNPC("Pillbug","npc_vj_mp2_pillbug",vCat)
 
@@ -73,7 +73,7 @@ if VJExists == true then
 
 //	VJ.AddNPC("Pirate Aerotrooper","npc_vj_mp2_pirate_aero",vCat)
 
-	VJ.AddNPC("Pirate Grenadier","npc_vj_mp2_pirate_gre",vCat)
+//	VJ.AddNPC("Pirate Grenadier","npc_vj_mp2_pirate_gre",vCat)
 
 //	VJ.AddNPC("Infant Tallon Metroid","npc_vj_mp2_metroid_infant",vCat)
 

@@ -29,8 +29,6 @@ if VJExists == true then
 
 //	VJ.AddNPC("Sap Sac","npc_vj_mp1_sap_sac",vCat)
 
-//	VJ.AddNPC("Blastcap","npc_vj_mp1_blastcap",vCat)
-
 //	VJ.AddNPC("Zoomer","npc_vj_mp1_zoomer",vCat)
 
 //	VJ.AddNPC("Geemer","npc_vj_mp1_geemer",vCat)
@@ -67,11 +65,11 @@ if VJExists == true then
 
 //	VJ.AddNPC("Grizby","npc_vj_mp1_grizby",vCat)
 
-	VJ.AddNPC("Burrower","npc_vj_mp1_burrower",vCat)
+//	VJ.AddNPC("Burrower","npc_vj_mp1_burrower",vCat)
 
 //	VJ.AddNPC("Puffer","npc_vj_mp1_puffer",vCat)
 
-//	VJ.AddNPC("Magmoor","npc_vj_mp1_magmoor",vCat)
+	VJ.AddNPC("Magmoor","npc_vj_mp1_magmoor",vCat)
 
 //	VJ.AddNPC("Triclops","npc_vj_mp1_triclops",vCat)
 
@@ -89,25 +87,25 @@ if VJExists == true then
 
 //	VJ.AddNPC("Ice Burrower","npc_vj_mp1_burrower_ice",vCat)
 
-//	VJ.AddNPC("Ice Parasite","npc_vj_mp1_parasite_ice",vCat)
+	VJ.AddNPC("Ice Parasite","npc_vj_mp1_parasite_ice",vCat)
 
 //	VJ.AddNPC("Sheegoth","npc_vj_mp1_sheegoth",vCat)
 
 //	VJ.AddNPC("Ice Shriekbat","npc_vj_mp1_shriekbat_ice",vCat)
 
-//	VJ.AddNPC("Shadow Pirate","npc_vj_mp1_pirate_shadow",vCat)
+	VJ.AddNPC("Shadow Pirate","npc_vj_mp1_pirate_shadow",vCat)
 
-//	VJ.AddNPC("Space Pirate","npc_vj_mp1_pirate",vCat)
+	VJ.AddNPC("Space Pirate","npc_vj_mp1_pirate",vCat)
 
 //	VJ.AddNPC("Flying Pirate","npc_vj_mp1_pirate_flying",vCat)
 
 //	VJ.AddNPC("Metroid","npc_vj_mp1_metroid",vCat)
 
-//	VJ.AddNPC("Ice Beetle","npc_vj_mp1_beetle_ice",vCat)
+	VJ.AddNPC("Ice Beetle","npc_vj_mp1_beetle_ice",vCat)
 
 //	VJ.AddNPC("Sentry Drone","npc_vj_mp1_sentrydrone",vCat)
 
-//	VJ.AddNPC("Plated Parasite","npc_vj_mp1_parasite_plated",vCat)
+	VJ.AddNPC("Plated Parasite","npc_vj_mp1_parasite_plated",vCat)
 
 //	VJ.AddNPC("Plated Puffer","npc_vj_mp1_puffer_plated",vCat)
 
@@ -146,8 +144,6 @@ if VJExists == true then
 //	VJ.AddNPC("Cloaked Drone","npc_vj_mp1_cloakeddrone",vCat)
 
 //	VJ.AddNPC("Phazon Elite","npc_vj_mp1_pirate_elite_ph",vCat)
-
-//	VJ.AddNPC("Phazon Blastcap","npc_vj_mp1_blastcap_phazon",vCat)
 
 //	VJ.AddNPC("Invisible Pulse Bombu","npc_vj_mp1_bombu_pulse_inv",vCat)
 
