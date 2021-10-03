@@ -19,6 +19,8 @@ ENT.VJ_NPC_Class = {"CLASS_BEETLE"}
 ENT.HasMeleeAttack = true
 
 ENT.MeleeAttackDamage = 12
+ENT.MeleeAttackDamageType = DMG_SLASH
+ENT.TimeUntilMeleeAttackDamage = false
 
 ENT.SoundTbl_Idle = {
 "npc/beetle/beetle_vox_idle_1.wav",
@@ -42,8 +44,6 @@ ENT.SoundTbl_Death = {
 	*** Copyright (c) 2012-2021 by DrVrej, All rights reserved. ***
 	No parts of this code or any of its contents may be reproduced, copied, modified or adapted,
 	without the prior written consent of the author, unless otherwise indicated for stand-alone materials.
-	Violators will be instantly permanently banned from the network no matter what! No questions asked,
-	no warnings given! You have been warned!
 -----------------------------------------------*/
 
 function ENT:CustomOnAcceptInput(key,activator,caller,data)
@@ -62,6 +62,7 @@ function ENT:CustomOnAcceptInput(key,activator,caller,data)
 		self:EmitSound("npc/beetle/beetle_vox_attack.wav", 70, 120, 1)
 	elseif key == "Vox_Growl" then
 		self:EmitSound("npc/beetle/beetle_growl.wav", 70, 100, 1)
+		self:MeleeAttackCode()
 	elseif key == "Slide" then
 		self:EmitSound("npc/beetle/beetle_slide2.wav", 70, 100, 1)
 	elseif key == "Impact" then
