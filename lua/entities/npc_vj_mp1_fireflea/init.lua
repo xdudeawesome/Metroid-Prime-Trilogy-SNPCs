@@ -8,7 +8,7 @@ include('shared.lua')
 -----------------------------------------------*/
 ENT.Model = {"models/metroid_prime/prime/plazmite.mdl"}
 ENT.StartHealth = 30
-ENT.HullType = HULL_MEDIUM
+ENT.HullType = HULL_SMALL
 ENT.MovementType = VJ_MOVETYPE_AERIAL
 
 
@@ -27,6 +27,10 @@ ENT.SoundTbl_Breath = {
 "npc/fireflea/fireflea_fly_lp.wav",
 }
 
+ENT.SoundTbl_Pain = {
+"npc/fireflea/fireflea_pain_big.wav",
+}
+
 ENT.SoundTbl_Death = {
 "npc/fireflea/fireflea_death.wav",
 }
@@ -38,7 +42,6 @@ function ENT:CustomOnInitialize()
 	self.PlazmiteLight:SetKeyValue("distance","250")
 	self.PlazmiteLight:SetKeyValue("style","0")
 	self.PlazmiteLight:SetKeyValue("targetname","PlazmiteLight1")
-	self.PlazmiteLight:SetKeyValue("pattern","zznaan")
 	self.PlazmiteLight:SetPos(self:GetPos())
 	self.PlazmiteLight:SetParent(self)
 	self.PlazmiteLight:Spawn()
