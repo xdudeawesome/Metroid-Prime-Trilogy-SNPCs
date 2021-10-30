@@ -1,6 +1,6 @@
 ENT.Base 			= "npc_vj_creature_base"
 ENT.Type 			= "ai"
-ENT.PrintName 		= "Beetle"
+ENT.PrintName 		= "Magmoor"
 ENT.Author 			= "X dude Awesome/Lord Megamix"
 ENT.Contact 		= "DON'T!!"
 ENT.Purpose 		= "Breaths fire and dwells in lava!"
