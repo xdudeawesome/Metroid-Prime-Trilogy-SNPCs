@@ -6,7 +6,7 @@ include('shared.lua')
 	without the prior written consent of the author, unless otherwise indicated for stand-alone materials.
 -----------------------------------------------*/
 ENT.Model = {"models/metroid_prime/prime/plated_beetle.mdl"}
-ENT.StartHealth = 50
+ENT.StartHealth = 150
 ENT.HullType = HULL_MEDIUM
 
 ENT.Bleeds = true
@@ -18,8 +18,8 @@ ENT.VJ_NPC_Class = {"CLASS_BEETLE"}
 
 ENT.HasMeleeAttack = true
 
-ENT.MeleeAttackDamage = 12
-ENT.MeleeAttackDamageType = DMG_SLASH
+ENT.MeleeAttackDamage = 24
+ENT.MeleeAttackDamageType = DMG_CRUSH
 ENT.TimeUntilMeleeAttackDamage = false
 
 ENT.SoundTbl_Idle = {
@@ -60,7 +60,7 @@ function ENT:CustomOnAcceptInput(key,activator,caller,data)
 	elseif key == "BurrowIn_END" then
 	BurrowLP:Stop()
 	elseif key == "Vox_Attack" then
-		self:EmitSound("npc/beetle/beetle_vox_attack.wav", 70, 120, 1)
+		self:EmitSound("npc/beetle/beetle_vox_attack.wav", 70, 90, 1)
 	elseif key == "Vox_Growl" then
 		self:EmitSound("npc/beetle/betabeetle_growl.wav", 70, 100, 1)
 		self:MeleeAttackCode()
