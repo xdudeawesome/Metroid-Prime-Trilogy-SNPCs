@@ -15,9 +15,9 @@ if VJExists == true then
 	include('autorun/vj_controls.lua')
 	local vCat = "Metroid Prime 3: Corruption"
 	
-//	VJ.AddNPC("Pirate Trooper","npc_vj_mp3_pirate",vCat)
+	VJ.AddNPC("Pirate Trooper","npc_vj_mp3_pirate",vCat)
 
-//	VJ.AddNPC("Pirate Militia","npc_vj_mp3_pirate_militia",vCat)
+	VJ.AddNPC("Pirate Militia","npc_vj_mp3_pirate_militia",vCat)
 
 //	VJ.AddNPC("Crawltank","npc_vj_mp3_crawltank",vCat)
 
@@ -117,7 +117,7 @@ if VJExists == true then
 
 //	VJ.AddNPC("Nightbarb","npc_vj_mp3_nightbarb",vCat)
 
-/	VJ.AddNPC("Phazon Nightbarb","npc_vj_mp3_nightbarb_phazon",vCat)
+//	VJ.AddNPC("Phazon Nightbarb","npc_vj_mp3_nightbarb_phazon",vCat)
 
 //	VJ.AddNPC("Swarmbot","npc_vj_mp3_swarmbot",vCat)
 

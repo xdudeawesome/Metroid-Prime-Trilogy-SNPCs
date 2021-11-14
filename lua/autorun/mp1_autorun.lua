@@ -37,17 +37,15 @@ if VJExists == true then
 
 //	VJ.AddNPC("Eyon","npc_vj_mp1_eyon",vCat)
 
-//	VJ.AddNPC("War Wasp","npc_vj_mp1_warwasp",vCat)
+	VJ.AddNPC("War Wasp","npc_vj_mp1_warwasp",vCat)
 
-//	VJ.AddNPC("Tangle Weed","npc_vj_mp1_snakeweed",vCat)
-
-//	VJ.AddNPC("Plazmite","npc_vj_mp1_fireflea",vCat)
+	VJ.AddNPC("Plazmite","npc_vj_mp1_fireflea",vCat)
 
 //	VJ.AddNPC("Hive Mecha","npc_vj_mp1_hive_mecha",vCat)
 
 //	VJ.AddNPC("Ram War Wasp","npc_vj_mp1_warwasp_ram",vCat)
 
-//	VJ.AddNPC("Plated Beetle","npc_vj_mp1_beetle_plated",vCat)
+	VJ.AddNPC("Plated Beetle","npc_vj_mp1_beetle_plated",vCat)
 
 //	VJ.AddNPC("Shriekbat","npc_vj_mp1_shriekbat",vCat)
 
@@ -65,7 +63,7 @@ if VJExists == true then
 
 //	VJ.AddNPC("Grizby","npc_vj_mp1_grizby",vCat)
 
-//	VJ.AddNPC("Burrower","npc_vj_mp1_burrower",vCat)
+	VJ.AddNPC("Burrower","npc_vj_mp1_burrower",vCat)
 
 //	VJ.AddNPC("Puffer","npc_vj_mp1_puffer",vCat)
 
@@ -170,10 +168,10 @@ if VJExists == true then
 //	VJ.AddNPC("Metroid Prime (Core)","npc_vj_mp1_metroid_prime_core",vCat)
 
 	-- Particles --
-	VJ.AddParticle("particles/example_particle.pcf",{
-		"example_particle_name1",
-		"example_particle_name2",
-	})
+//	VJ.AddParticle("particles/example_particle.pcf",{
+//		"example_particle_name1",
+//		"example_particle_name2",
+//	})
 	
 	-- Precache Models --
 	util.PrecacheModel("models/example_model.mdl")
